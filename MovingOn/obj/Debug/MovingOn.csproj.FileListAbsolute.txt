@@ -1,0 +1,6 @@
+c:\users\student\documents\visual studio 2015\Projects\MovingOn\MovingOn\bin\Debug\MovingOn.exe.config
+c:\users\student\documents\visual studio 2015\Projects\MovingOn\MovingOn\bin\Debug\MovingOn.exe
+c:\users\student\documents\visual studio 2015\Projects\MovingOn\MovingOn\bin\Debug\MovingOn.pdb
+c:\users\student\documents\visual studio 2015\Projects\MovingOn\MovingOn\obj\Debug\MovingOn.csprojResolveAssemblyReference.cache
+c:\users\student\documents\visual studio 2015\Projects\MovingOn\MovingOn\obj\Debug\MovingOn.exe
+c:\users\student\documents\visual studio 2015\Projects\MovingOn\MovingOn\obj\Debug\MovingOn.pdb
